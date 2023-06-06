@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+One day I will update this page with additional information about myself
+
+### Pantheon
+#### [Redhat](https://rhtapps.redhat.com/verify?certId=220-066-641)
+* RHCE
+   - [x] EX200
+   - [x] EX294
+* RHCA
+   - [x] EX188
+   - [ ] EX280
