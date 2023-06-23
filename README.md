@@ -24,7 +24,7 @@ One day I will update this page with additional information about myself
 
 EX-200 | EX-294 | EX-188 | EX-280
 :-----:|:------:|:------:|:----------:|
-![](images/RHCSA.png) |![](images/RHCSA.png)  |![](images/RHCSA.png)  |![](images/RHCSA.png)  |
+![](images/rhsca.png) |![](images/rhsca.png)  |![](images/rhsca.png)  |![](images/rhsca.png)  |
 
 #### Cloud
 
