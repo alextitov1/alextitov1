@@ -42,6 +42,10 @@ EX-200 | EX-294 | EX-188 | EX-280
 :-------------------------:|:----------:|
 ![](images/ccnars.png)  | ![](images/ccna.png)
 
+MTCNA (1810NA2556)|
+:-------------------------:|
+![](images/mikrotik.png)  |
+
 #### Windows
 [MS-410](https://www.credly.com/badges/80f6d7ac-7677-423c-9193-c3f02ef0aee3/public_url)|
 :-------------------------:|
