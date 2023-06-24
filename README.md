@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 One day I will update this page with additional information about myself
 
-### Pantheon
+## Pantheon
 
-#### RedHat
+### RedHat
 
 [ID: 220-066-641](https://rhtapps.redhat.com/verify?certId=220-066-641)
 
@@ -26,7 +26,7 @@ EX-200 | EX-294 | EX-188 | EX-280
 :-----:|:------:|:------:|:----------:|
 ![](images/rhsca.png) |![](images/rhsca.png)  |![](images/rhsca.png)  |![](images/rhsca.png)  |
 
-#### Cloud
+### Cloud
 
 [AZ-104](https://www.credly.com/badges/775480a0-ef71-4c4a-b432-918a5ec34278/public_url)|
 :-------------------------:|
@@ -36,7 +36,7 @@ EX-200 | EX-294 | EX-188 | EX-280
 :-------------------------:|
 ![](images/aws-csaa.png)  |
 
-#### Networking
+### Networking
 
 [CCNA R&S](https://www.credly.com/badges/8973359b-c731-4218-8e10-23a8eb0a309b/public_url)| [CCNA](https://www.credly.com/badges/8f6a8f05-8758-4b4f-b6c0-352ec3dfae92/public_url)
 :-------------------------:|:----------:|
@@ -46,10 +46,18 @@ MTCNA (1810NA2556)|
 :-------------------------:|
 ![](images/mikrotik.png)  |
 
-#### Windows
+### Windows
 [MS-410](https://www.credly.com/badges/80f6d7ac-7677-423c-9193-c3f02ef0aee3/public_url)|
 :-------------------------:|
 ![](images/ms-410.png)  |
 
 
+### Programming
+[Google - Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/J7VRJTVTY7B5)
 
+<details>
+<summary>Coursera cert</summary>
+
+![](images/coursera-python.png)
+
+</details>
