@@ -22,9 +22,9 @@ One day I will update this page with additional information about myself
 
 [ID: 220-066-641](https://rhtapps.redhat.com/verify?certId=220-066-641)
 
-EX-200 | EX-294 | EX-188 | EX-280
+[EX-200](https://www.credly.com/badges/b6f62196-6210-4c63-a077-a8b5cc72236e/public_url) | [EX-294](https://www.credly.com/badges/e6937583-524c-42df-a13c-415c87c4a2b4/public_url) | [EX-188](https://www.credly.com/badges/290d178c-85e2-4c77-aec4-9d8d0682762f/public_url) | EX-280
 :-----:|:------:|:------:|:----------:|
-![](images/rhsca.png) |![](images/rhsca.png)  |![](images/rhsca.png)  |![](images/rhsca.png)  |
+![](images/ex-200.png) |![](images/ex-294.png)  |![](images/ex-188.png)  |![](images/ex-188.png)  |
 
 ### Cloud
 
